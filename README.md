@@ -62,7 +62,7 @@ We revised our approach in mid-June to have individual branches for each feature
 View our full detailed documentation here: https://docs.google.com/document/d/15RZ7NSEwn_ind713vej9SGT2XvbrEAlNu742bpB6gUs/edit?usp=sharing 
 
 
-## Thoughts and relfection
+## Thoughts and reflection
 User Experience is a very important aspect when using this product so we try to make improvements and take user feedback when building our product.
 
 Our web-application is currently focussed on one community, however it can be expanded to support multiple communities such as at the school or neighbourhood level. 
